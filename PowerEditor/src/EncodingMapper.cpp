@@ -66,6 +66,7 @@ static EncodingUnit encodings[] = {
     {932,   "Shift_JIS MS_Kanji csShiftJIS csWindows31J"},                                      //IDM_FORMAT_SHIFT_JIS
     {949,   "windows-949 korean"},                                                              //IDM_FORMAT_KOREAN_WIN
     {51949, "euc-kr csEUCKR"},                                                                  //IDM_FORMAT_EUC_KR
+	{1361,  "cp1361 Johap" },																//IDM_FORMAT_JOHAP
     {874,   "tis-620"},                                                                         //IDM_FORMAT_TIS_620
     {10007, "x-mac-cyrillic xmaccyrillic"},                                                     //IDM_FORMAT_MAC_CYRILLIC
     {21866, "koi8_u"},                                                                          //IDM_FORMAT_KOI8U_CYRILLIC
